@@ -72,7 +72,7 @@ development, it is in my opinion the best combination of logical programming and
 
 | Word / abreviation | Meaning                                                | Note                                             |
 | ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| ICFO               | I Code For Owo(Money)                                  | They say money is the bicycle of envagelism. So, if it is not making money, it is not making sense 
+| ICOFO               | I Code For Owo(Money)                                  | They say, money is the bicycle of evangelism. So, if it is not making money, it is not making sense. 
 </details>
 
 
