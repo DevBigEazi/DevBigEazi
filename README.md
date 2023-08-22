@@ -16,14 +16,14 @@ I have MERN stack experience and I am currently building on Blockchain and Solid
   <summary>
     More stuff about me
   </summary>
-  
-### Quick overview
 
-<a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
+  <a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/Iambigeazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Iambigeazi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
 /></a>
 
+  
+### Quick overview
 
 ### What I do
 
