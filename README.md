@@ -26,11 +26,7 @@ src="https://img.shields.io/twitter/follow/Iambigeazi?logo=twitter&style=for-the
 ### Quick overview
 
 ### What I do
-
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+I'm deeply involved in Open Source projects. In fact, the majority of my GitHub contributions, around 95%, are dedicated to freely sharing my work with the community. My true passion lies in web development, as I believe it offers the perfect blend of logical programming and occasionally stunning design.
 
 ## My skills 📜
 
