@@ -63,12 +63,6 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 
 - Diving into Web 3 World
 - Latest NextJs features
-
-## My own dictionary 📕:
-
-| Word / abreviation | Meaning                                                | Note                                             |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| ICOFO               | I Code For Owo(Money)                                  | They say, money is the bicycle of evangelism. So, if it is not making money, it is not making sense. 
 </details>
 
 
