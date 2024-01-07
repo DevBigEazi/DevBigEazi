@@ -9,8 +9,8 @@ I have MERN stack experience and I am currently building on Blockchain and Solid
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
 * 🚀  I'm currently working on [an open source project](http://github.com/DevBigEazi/celo-africa-dao/tree/Staging)
-* 🧠  I'm learning Solidity
-* 🤝  I'm open to collaborating on Open Source Projects
+* 🧠  I'm looking forward to learn Microservices using Docker and kubernets
+* 🤝  I'm open to collaborating on more Open Source Projects
 
 <a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/Iambigeazi" target="_blank" rel="noreferrer"><img
@@ -33,8 +33,6 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 ### Web technologies
 
 - JavaScript
-  
-- TypeScript
 - Next.js
 - Prisma
 - Node.js 
