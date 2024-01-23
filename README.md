@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
 ======================================================================================================================================
 
-Full Stack Software Developer
------------------------------
+Full Stack Software Developer || Aspiring Solidity Developer
+-------------------------------------------------------------
 
 I am building on MERN stack and I am a blockchain and crypto enthusiast. I love layer 2 scaling solutions.
 
@@ -59,8 +59,7 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 
 ## What I'm currently learning 📚
 
-- Diving into Web 3 World
-- Latest NextJs features
+- Diving into Web 3 & Blockchain World
 </details>
 
 
