@@ -9,6 +9,7 @@ I am building on MERN stack and I am a blockchain and crypto enthusiast. I love 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
 * 🚀  I'm currently working on [an open source project](http://github.com/DevBigEazi/celo-africa-dao/tree/Staging)
+* 🚀  I'm currently learning Solidity through this [repo](http://github.com/DevBigEazi/celo-africa-dao/tree/Staging)
 * 🧠  I'm looking forward to learn Microservices using Docker and kubernets
 * 🤝  I'm open to collaborating on more Open Source Projects
 
