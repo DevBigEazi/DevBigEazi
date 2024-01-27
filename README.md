@@ -33,6 +33,8 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 ### Web technologies
 
 - JavaScript
+- Typescript
+- Solidity
 - Next.js
 - Prisma
 - Node.js 
