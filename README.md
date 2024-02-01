@@ -1,59 +1,110 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
-======================================================================================================================================
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-Full Stack Software Developer || Aspiring Solidity Developer
--------------------------------------------------------------
+  <a href="https://profile-readme-generator.com">Demo</a>
+</div>
 
-I am building on MERN stack and I am a blockchain and crypto enthusiast. I love layer 2 scaling solutions.
+<div align="center">
+  <h1>Profile Readme Generator</h1>
+  <h3>The best profile readme generator you will find!</h3>
+</div>
 
-* 🌍  I'm based in Lagos, Nigeria.
-* ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
-* 🚀  I'm currently working on [an open source project](http://github.com/DevBigEazi/celo-africa-dao/tree/Staging)
-* 🚀  I'm currently learning Solidity through this [repo](https://github.com/DevBigEazi/full-blockchain-solidity-course-js)
-* 🧠  I'm looking forward to learn Microservices using Docker and kubernets
-* 🤝  I'm open to collaborating on more Open Source Projects
+<p align="center">
+  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  </a>
 
-<a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/Iambigeazi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Iambigeazi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
-/></a>
+  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+  </a>
 
-### Quick overview
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  </a>
 
-### What I do
-I'm deeply involved in Open Source projects. In fact, the majority of my GitHub contributions, around 95%, are dedicated to freely sharing my work with the community. My true passion lies in web development, as I believe it offers the perfect blend of logical programming and occasionally stunning design.
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+  </a>
 
-## My skills 📜
+  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+  </a>
 
-### Web technologies
+  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+  </a>
 
-- JavaScript
-- Typescript
-- Solidity
-- Next.js
-- Prisma
-- Node.js 
-- HTML, CSS
- 
-- SCSS
-- Chakra UI
-- Tailwind CSS
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  </a>
+</p>
 
-  ### Languages 🌐
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English       | C4 |
-| Yoruba        | Native language | 
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+</p>
 
-<b>My GitHub Stats</b>
+## :dart: About ##
 
-<a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-stats.vercel.app/api?username=DevBigEazi&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&show_icons=true" alt="DevBigEazi's GitHub stats" /></a>
+Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
 
-<a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&stroke=ffffff&background=365314&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
 
-<a href="https://github.com/DevBigEazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBigEazi&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
 
-## What I'm currently learning 📚
+**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
 
-- Diving into Web 3 & Blockchain World
+
+<p align="center">
+<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+</p>
+
+https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
+
+## :rocket: Main Technologies ##
+
+<a href="https://nextjs.org">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://www.typescriptlang.org">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://styled-components.com">
+  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+</a> &#xa0; &#xa0;
+
+<a href="https://jestjs.io">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://eslint.org">
+  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+</a> &#xa0; &#xa0;
+
+<a href="https://prettier.io">
+  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
+</a>
+
+###
+
+<details>
+  <summary>See more</summary>
+
+  ###
+
+  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
+  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
+  * [Framer Motion](https://framer.com/motion/)
+  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
+  * [React Share](https://github.com/nygardk/react-share)
+  * [Prismjs](https://prismjs.com)
+  * [UUID](https://www.npmjs.com/package/uuid)
+
+</details>
+
