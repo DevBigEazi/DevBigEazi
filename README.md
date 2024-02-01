@@ -1,64 +1,68 @@
-<h2 align="center">Hi 👋! My name is Isiaq Tajudeen and I'm a Full stack Software Engineer, from Lagos, Nigeria.</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
+======================================================================================================================================
 
-###
+Full Stack Software Developer || Aspiring Solidity Developer
+-------------------------------------------------------------
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+I am building on MERN stack and I am a blockchain and crypto enthusiast. I love layer 2 scaling solutions.
 
-###
+* 🌍  I'm based in Lagos, Nigeria.
+* ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
+* 🚀  I'm currently working on [an open source project](http://github.com/DevBigEazi/celo-africa-dao/tree/Staging)
+* 🧠  I'm currently learning Solidity through this [repo](https://github.com/DevBigEazi/full-blockchain-solidity-course-js)
+* 🧠  I'm looking forward to learn Microservices using Docker and kubernets
+* 🤝  I'm open to collaborating on more Open Source Projects
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+<a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/Iambigeazi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Iambigeazi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
+/></a>
 
-###
 
-<p align="left">Hello World!!</p>
+<details>
+  <summary>
+    More stuff about me
+  </summary>
+  
+### Quick overview
 
-###
+### What I do
+I'm deeply involved in Open Source projects. In fact, the majority of my GitHub contributions, around 95%, are dedicated to freely sharing my work with the community. My true passion lies in web development, as I believe it offers the perfect blend of logical programming and occasionally stunning design.
 
-<img src="https://raw.githubusercontent.com/DevBigEazi/DevBigEazi/output/snake.svg" alt="Snake animation" />
+## My skills 📜
 
-###
+### Web technologies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBigEazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevBigEazi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- JavaScript
+- Typescript
+- Solidity
+- Next.js
+- Prisma
+- Node.js 
+- HTML, CSS
+ 
+- SCSS
+- Chakra UI
+- Tailwind CSS
 
-###
+  ### Languages 🌐
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DevBigEazi/count.svg?"  />
-</div>
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | C4 |
+| Yoruba        | Native language | 
 
-###
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-stats.vercel.app/api?username=DevBigEazi&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&show_icons=true" alt="DevBigEazi's GitHub stats" /></a>
+
+<a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&stroke=ffffff&background=365314&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/DevBigEazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBigEazi&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## What I'm currently learning 📚
+
+- Diving into Web 3 & Blockchain World
+</details>
+
+
