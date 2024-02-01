@@ -18,12 +18,6 @@ src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-th
 src="https://img.shields.io/twitter/follow/Iambigeazi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
 /></a>
 
-
-<details>
-  <summary>
-    More stuff about me
-  </summary>
-  
 ### Quick overview
 
 ### What I do
@@ -63,4 +57,3 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 ## What I'm currently learning 📚
 
 - Diving into Web 3 & Blockchain World
-</details>
