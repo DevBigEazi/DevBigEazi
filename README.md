@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 NodeJs Developer || Junior DevOps Engineer
 -------------------------------------------------------------
-
-I am learning DevOps and I'm comfortable contributing to NodeJs projects. I am a blockchain and crypto enthusiast. I love layer 2 scaling solutions.
+I have background knowledge in MERN Stack web development, and also Community Management, Sales and BD in web3 and crypto ecosystem. 
+I am learning DevOps and I'm comfortable contributing to NodeJs projects. I am a blockchain and crypto enthusiast.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
