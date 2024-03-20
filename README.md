@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
 ======================================================================================================================================
 
-Full Stack Software Developer || Aspiring Solidity Developer
+NodeJs Developer || Junior DevOps Engineer
 -------------------------------------------------------------
 
-I am building on MERN stack and I am a blockchain and crypto enthusiast. I love layer 2 scaling solutions.
+I am learning DevOps and I'm comfortable contributing to NodeJs projects. I am a blockchain and crypto enthusiast. I love layer 2 scaling solutions.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
