@@ -8,10 +8,10 @@ I am building on MERN stack and I am a blockchain and crypto enthusiast. I love 
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
-* 🚀  I'm currently working on [an open source project](http://github.com/DevBigEazi/celo-africa-dao/tree/Staging)
-* 🧠  I'm currently learning Solidity through this [repo](https://github.com/DevBigEazi/full-blockchain-solidity-course-js)
-* 🧠  I'm looking forward to learn Microservices using Docker and kubernets
-* 🤝  I'm open to collaborating on more Open Source Projects
+* 🚀  I'm currently working on [an open source project](https://github.com/DevBigEazi/DLT-Africa-Website/tree/main)
+* 🧠  I'm currently learning DevOps Engineering
+* 🧠  I'm a blockchain, web3 and crypto enthusiast
+* 🤝  I'm open to collaborating on more Open Source Projects, especially Nodejs project
 
 <a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/Iambigeazi" target="_blank" rel="noreferrer"><img
@@ -35,11 +35,15 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 
 - JavaScript
 - Typescript
-- Solidity
-- Next.js
 - Prisma
 - Node.js 
 - HTML, CSS
+- Pug
+- Handlebars
+- Ejs
+- Linux
+- Kubernet
+- Docker
  
 - SCSS
 - Chakra UI
@@ -62,7 +66,7 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 
 ## What I'm currently learning 📚
 
-- Diving into Web 3 & Blockchain World
+- Diving into DevOps Engineering
 </details>
 
 
