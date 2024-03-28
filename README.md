@@ -38,6 +38,8 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 - Prisma
 - Node.js 
 - HTML, CSS
+- React js
+- Next Js
 - Pug
 - Handlebars
 - Ejs
