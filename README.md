@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
 ======================================================================================================================================
 
-NodeJs Developer || DevOps Engineer
+Full Stack || DevOps Engineer
 -------------------------------------------------------------
 I have background knowledge in MERN Stack web development, and also Community Management, Sales and BD in web3 and crypto ecosystem. 
 I am currently learning DevOps and I'm comfortable contributing to NodeJs projects. I am also a blockchain and crypto enthusiast.
