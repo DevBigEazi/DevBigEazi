@@ -11,7 +11,7 @@ I am currently learning DevOps and I'm comfortable contributing to MERN stack pr
 * 🚀  I'm currently working on [an open source project](https://github.com/DevBigEazi/DLT-Africa-Website/tree/main)
 * 🧠  I'm currently learning DevOps Engineering
 * 🧠  I'm a blockchain, web3 and crypto enthusiast
-* 🤝  I'm open to collaborating on more Open Source Projects, especially Nodejs project
+* 🤝  I'm open to collaborating on more Open Source Projects, especially MERN/NextJs  project
 
 <a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/Iambigeazi" target="_blank" rel="noreferrer"><img
