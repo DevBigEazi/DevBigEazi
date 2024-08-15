@@ -33,8 +33,10 @@ I am deeply passionate about Open Source projects, dedicating around 95% of my G
 
 - JavaScript
 - Typescript
+- React-Native
+- Node.js
+- Express js
 - Prisma
-- Node.js 
 - HTML, CSS
 - React js
 - Next Js
