@@ -25,7 +25,7 @@ src="https://img.shields.io/twitter/follow/Iambigeazi?logo=twitter&style=for-the
 ### Quick overview
 
 ### What I do
-I'm deeply involved in Open Source projects. In fact, the majority of my GitHub contributions, around 95%, are dedicated to freely sharing my work with the community. My true passion lies in web development, as I believe it offers the perfect blend of logical programming and occasionally stunning design.
+I am deeply passionate about Open Source projects, dedicating around 95% of my GitHub contributions to freely sharing my work with the community. My true love is web development, as it combines the perfect mix of logical programming with the opportunity to create visually stunning designs.
 
 ## My skills 📜
 
