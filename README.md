@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
 ======================================================================================================================================
 
-Software Engineer || DevOps Engineer
+Software Engineer
 -------------------------------------------------------------
-I have background knowledge in MERN and NextJs fullstack web development, and also Community Management, Sales and BD in web3 and crypto ecosystem. 
-I am currently learning DevOps and I'm comfortable contributing to MERN stack projects. I am also a blockchain and crypto enthusiast.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
 * 🚀  I'm currently working on [an open source project](https://github.com/DevBigEazi/DLT-Africa-Website/tree/main)
-* 🧠  I'm currently learning DevOps Engineering
+* 🧠  I'm currently learning Web 3 with React-Native
 * 🧠  I'm a blockchain, web3 and crypto enthusiast
 * 🤝  I'm open to collaborating on more Open Source Projects, especially MERN/NextJs  project
 
@@ -65,10 +63,6 @@ I'm deeply involved in Open Source projects. In fact, the majority of my GitHub 
 <a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&stroke=ffffff&background=365314&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/DevBigEazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBigEazi&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-## What I'm currently learning 📚
-
-- Diving into DevOps Engineering
 </details>
 
 
