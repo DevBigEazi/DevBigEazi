@@ -12,7 +12,7 @@ Software Engineer
 * 🤝  I'm open to collaborating on more Open Source Projects, especially MERN/NextJs  project
 
 <a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/Iambigeazi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/devbigeazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/devbigeazi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
 /></a>
 
