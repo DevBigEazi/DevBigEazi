@@ -8,8 +8,8 @@ Software Engineer
 * ✉️  You can contact me at [adesholatajudeen1@gmail.com](mailto:adesholatajudeen1@gmail.com)
 * 🚀  I'm currently working on [an open source project](https://github.com/DevBigEazi/DLT-Africa-Website/tree/main)
 * 🧠  I'm currently learning Web 3 with React-Native
-* 🧠  I'm a blockchain, web3 and crypto enthusiast
-* 🤝  I'm open to collaborating on more Open Source Projects, especially MERN/NextJs  project
+* 🧠  Learning blockchain and solidity 
+* 🤝  I'm open to collaborating on more Open Source Projects.
 
 <a href="https://www.github.com/DevBigEazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevBigEazi?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/devbigeazi" target="_blank" rel="noreferrer"><img
