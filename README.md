@@ -25,7 +25,7 @@ src="https://img.shields.io/twitter/follow/devbigeazi?logo=twitter&style=for-the
 ### Quick overview
 
 ### What I do
-I am deeply passionate about Open Source projects, dedicating around 95% of my GitHub contributions to freely sharing my work with the community. My true love is web development, as it combines the perfect mix of logical programming with the opportunity to create visually stunning designs.
+I am deeply passionate about Open Source projects, dedicating around 95% of my GitHub contributions to freely sharing my work with the community. My true love is web and mobile app development, as they combine the perfect mix of logical programming with the opportunity to create visually stunning designs.
 
 ## My skills 📜
 
@@ -36,7 +36,7 @@ I am deeply passionate about Open Source projects, dedicating around 95% of my G
 - React-Native
 - Node.js
 - Express js
-- Prisma
+- MongoDb
 - HTML, CSS
 - React js
 - Next Js
