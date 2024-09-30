@@ -9,7 +9,7 @@ Smart Contract Engineer || Mobile First
 ### Quick overview
 
 ### What I do
-I am deeply passionate about Open Source projects, dedicating around 95% of my GitHub contributions to freely sharing my work with the community. My true love is web and mobile app development, as they combine the perfect mix of logical programming with the opportunity to create visually stunning designs.
+I am deeply passionate about Open Source projects, dedicating around 95% of my GitHub contributions to freely sharing my work with the community. My true love is decentralized mobile app development, as they combine the perfect mix of logical blockchain programming with the opportunity to create visually stunning designs.
 
 <b>My GitHub Stats</b>
 
