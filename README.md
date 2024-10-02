@@ -13,9 +13,11 @@ I am deeply passionate about Open Source projects, dedicating around 95% of my G
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-stats.vercel.app/api?username=DevBigEazi&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&show_icons=true" alt="DevBigEazi's GitHub stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevBigEazi&show_icons=true&theme=transparent" />
+</a>
 
-<a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&stroke=ffffff&background=365314&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DevBigEazi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&show_icons=true&theme=transparent" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBigEazi&langs_count=8&layout=compact&theme=transparent" />
