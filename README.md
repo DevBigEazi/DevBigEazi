@@ -8,20 +8,24 @@ Smart Contract Engineer || React Native Mobile Engineer
   
 ### Quick overview
 
-### What I do
 I am deeply passionate about Open Source projects, dedicating around 95% of my GitHub contributions to freely sharing my work with the community. My true love is decentralized mobile app development, as they combine the perfect mix of logical blockchain programming with the opportunity to create visually stunning designs.
 
-<b>My GitHub Stats</b>
+### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevBigEazi&show_icons=true&theme=transparent" />
 </a>
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBigEazi&langs_count=8&layout=compact&theme=transparent" />
 </a>
 
-<a href="http://www.github.com/DevBigEazi"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&show_icons=true&theme=transparent" /></a>
+### 
+
+<a href="http://www.github.com/DevBigEazi">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&show_icons=true&theme=transparent" />
+</a>
 
 
 
