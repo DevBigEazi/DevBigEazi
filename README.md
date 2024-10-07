@@ -21,11 +21,15 @@ I am deeply passionate about Open Source projects, dedicating around 95% of my G
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBigEazi&langs_count=8&layout=compact&theme=transparent" />
 </a>
 
-### 
+###
 
 <a href="http://www.github.com/DevBigEazi">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&show_icons=true&theme=transparent" />
 </a>
+
+### Awards
+[![An image of @devbigeazi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devbigeazi)](https://holopin.io/@devbigeazi)
+
 
 
 
