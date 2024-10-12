@@ -6,7 +6,7 @@ Smart Contract Engineer
 
 * 🌍  I'm based in Lagos, Nigeria.
   
-Now,pick your slice of cake and pass it around the table
+Now, pick your slice of cake and pass it around the table.
 
 ### Stats
 
