@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
 ======================================================================================================================================
 
-Smart Contract Engineer || React Native Mobile Engineer
+Smart Contract Engineer
 -------------------------------------------------------------
 
 * 🌍  I'm based in Lagos, Nigeria.
   
-### Quick overview
-
-I am deeply passionate about Open Source projects, dedicating around 95% of my GitHub contributions to freely sharing my work with the community. My true love is decentralized mobile app development, as they combine the perfect mix of logical blockchain programming with the opportunity to create visually stunning designs.
+Now,pick your slice of cake and pass it around the table
 
 ### Stats
 
@@ -26,9 +24,6 @@ I am deeply passionate about Open Source projects, dedicating around 95% of my G
 <a href="http://www.github.com/DevBigEazi">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&show_icons=true&theme=transparent" />
 </a>
-
-### Badges
-[![An image of @devbigeazi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devbigeazi)](https://holopin.io/@devbigeazi)
 
 
 
