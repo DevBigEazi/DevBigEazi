@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Smart Contract Engineer
 -------------------------------------------------------------
 
-* 🌍  I'm based in Lagos, Nigeria.
+* 🌍 I'm based in Lagos, Nigeria.
+* 📘 I'm currently learning Solidity and Rust.
   
 Now, pick your slice of cake and pass it around the table.
 
