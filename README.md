@@ -5,7 +5,7 @@ Full-Stack Smart Contract Developer
 -------------------------------------------------------------
 
 * 🌍 I'm based in Lagos, Nigeria.
-* 📘 I'm a Solidity and TypeScript dev.
+* 📘 I'm a JavaScript, TypeScript and Solidity dev.
 * 🥶 React and React Native💪
   
 Now, pick your slice of cake and pass it around the table.
