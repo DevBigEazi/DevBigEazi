@@ -12,9 +12,7 @@ Now, pick your slice of cake and pass it around the table.
 
 ### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevBigEazi&show_icons=true&theme=transparent" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=DevBigEazi&theme=tokyonight&cache_seconds=86400)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
