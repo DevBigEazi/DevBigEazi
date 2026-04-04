@@ -8,6 +8,7 @@ Full-Stack & Smart Contract Developer
 * 📘 I'm a JavaScript, TypeScript and Solidity dev.
 * 🥶 React.js, Next.js and React Native💪
 * 🦾 Node.js, Express, MongoDb, Subgraph and Postgresql
+* 🤖 CodeRabbit, Cursor, Claude, Git Copilot etc.
   
 Now, pick your slice of cake and pass it around the table.
 
