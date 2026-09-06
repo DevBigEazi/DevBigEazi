@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isiaq Tajudeen
 ======================================================================================================================================
 
-Full-Stack & Smart Contract Developer
+Full-Stack & System Design Engineer
 -------------------------------------------------------------
 
 * 🌍 I'm based in Lagos, Nigeria.
@@ -13,10 +13,14 @@ Full-Stack & Smart Contract Developer
 Now, pick your slice of cake and pass it around the table.
 
 ### Stats
-
-<a href="http://www.github.com/DevBigEazi">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&show_icons=true&theme=transparent" />
-</a>
+<p align="center">
+  <a href="http://www.github.com/DevBigEazi">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBigEazi&show_icons=true&theme=transparent" />
+  </a>
+  <a href="http://www.github.com/DevBigEazi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBigEazi&layout=compact&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
 
 
