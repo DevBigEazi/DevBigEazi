@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍 I'm based in Lagos, Nigeria.
 * 📘 I'm a JavaScript, TypeScript and Solidity dev.
 * 🥶 React.js, Next.js and React Native💪
-* 🦾 Node.js, Express, MongoDb, Nest.Js Subgraph and Postgresql
+* 🦾 Node.js, Express, MongoDb, Nest.Js, Subgraph and Postgresql
 * 🏗️ System Design & Engineering
 * 🤖 CodeRabbit, Cursor, Claude, Github Copilot etc.
 
